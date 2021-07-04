@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+    text-justify: distribute-all-lines;
+    word-spacing: 150px;
+}
+.red-text{
+       color: #ad1414;
+       text-align: center;
+
+}
+.date{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+.line{
+    border-top:1px solid black;
+    margin: 2px;
+}
+.flex-img{
+    display: flex;
+    flex-direction: row;
+}

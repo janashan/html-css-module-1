@@ -1,0 +1,25 @@
+table,
+        th,
+        td, tr {
+            border-collapse: collapse;
+            border: 1px solid black;
+            font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+            text-align: center;
+
+        }
+
+        .avatar {
+            vertical-align: middle;
+            width: 75px;
+            height: 75px;
+            border-radius: 80px;
+        }
+
+        h2 {
+            background-color: rgb(170, 170, 247);
+            font-size: 25;
+        }
+
+        .right {
+            text-align: right;
+        }
