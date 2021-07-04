@@ -8,6 +8,13 @@
        text-align: center;
 
 }
+.label{
+   
+    background-color: #ad1414;
+    margin-right: 80%;
+    margin-bottom: -1px;
+    text-align: center;
+}
 .date{
     display: flex;
     flex-direction: row;
