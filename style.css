@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: Roboto;
+  background: #0a0c1b;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.office-img {
+  background: url(https://us.123rf.com/450wm/puhhha/puhhha1802/puhhha180200824/96381596-it-office-people-working-at-open-workplace-group-of-programmers-working-together-on-project-programm.jpg?ver=6),
+    #9551c2;
+  min-height: 200px;
+  width: 100%;
+  background-size: cover;
+  background-blend-mode: luminosity;
+}
+
+section {
+  display: flex;
+  border-radius: 1.2rem;
+  background: #1c1938;
+  overflow: hidden;
+}
+
+.content {
+  padding: 25px;
+  color: white;
+}
+
+.count {
+  display: flex;
+  justify-content: space-between;
+}
+
+.number {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 3px;
+}
+
+.number + p {
+  margin: 0px;
+  font-size: 0.7rem;
+}
+
+.insights {
+  color: #9551c2;
+}
